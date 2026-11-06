@@ -1,2 +1,5 @@
-# Smart-Waste-Collection-Scheduling-For-Freetown
-waste recycling saving the planet
+
+FloodWatch SL is an SMS-based flood early-warning system designed for flood-prone communities in Freetown, Sierra Leone.
+Every rainy season, areas like Kroo Bay, Kolleh Town, Susan's Bay and Regent suffer flash floods, and many residents only find out when water is already in their homes. The 2017 Regent mudslide, which killed more than 1,000 people, showed how costly late warnings are. There is still no cheap, local warning service that reaches every household.
+FloodWatch SL fixes this by reading rainfall, water level and soil saturation for each zone every 30 minutes. It checks the readings are valid and calculates a risk level from 0 to 3 (Low, Watch, Warning, Severe). It then texts a short, plain-language alert to everyone registered in that zone and logs every decision. Because it uses SMS, it works on basic phones with no internet.
+The project is open source and meant to become a digital public good. It supports SDG 11 (sustainable cities), SDG 13 (climate action) and SDG 3 (health). This assignment delivers the logical design only: algorithm, pseudocode and flowcharts, with no source code.
